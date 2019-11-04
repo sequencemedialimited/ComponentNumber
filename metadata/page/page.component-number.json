@@ -1,13 +1,14 @@
 {
-  "_id": "page.component-number",
+  "_id": "page.number",
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.component-number--number.auto_name__1",
+      "_id": "page.number--number.auto_name__1",
       "_type": "number",
+      "hint": "Number hint text",
       "label": "Number",
       "name": "auto_name__1"
     }
   ],
-  "url": "component-number"
+  "url": "number"
 }
