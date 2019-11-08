@@ -4,7 +4,8 @@
   "heading": "Component - Number",
   "steps": [
     "page.number",
-    "page.check-answers"
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }
