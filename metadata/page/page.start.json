@@ -3,9 +3,11 @@
   "_type": "page.start",
   "heading": "Component - Number",
   "steps": [
-    "page.number",
-    "page.check-answers",
-    "page.confirmation"
+    "page.number-first",
+    "page.number-second",
+    "page.number-third",
+    "page.number-summary",
+    "page.number-confirmation"
   ],
   "url": "/"
 }
